@@ -43,4 +43,4 @@ app.use(indexRoutes);
 
 const port = process.env.PORT || 8000;
 // listen on the port
-app.listen(port, () => console.log(`Listening on ${port}`));
+app.listen(port, () => console.log(`Listening on - ${port}`));
